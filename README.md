@@ -9,7 +9,7 @@
 </h1>
 
 
-<div align="center">
+<p align="center">
 ## 📋 Sobre o Projeto
 <p align="justify">
 Este projeto foi desenvolvido para documentar a migração de um site da versão Joomla 3 para Joomla 5, incluindo a reformulação visual e funcional do site existente e a criação de uma nova página inicial. O trabalho seguiu as diretrizes do <strong>Padrão Digital do Governo Brasileiro</strong>, utilizando um template adequado a partir das especificações disponíveis em <a href="https://www.gov.br/ds/">Padrão Digital de Governo</a> para Joomla, versão 5.2.0, e foi implementado em <strong>PHP</strong> com um banco de dados <strong>MySQL</strong>.
