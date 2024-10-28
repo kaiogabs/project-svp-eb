@@ -8,15 +8,12 @@
   <a href="https://github.com/kaiogabs/project-svp-eb">Projeto de Reformulação e Criação de Site</a><br>Exército Brasileiro
 </h1>
 
-</div>
 
-<a href="https://github.com/kaiogabs/project-svp-eb">
-    <img src="https://img.shields.io/github/repo-size/kaiogabs/project-svp-eb" height="20" data-canonical-src="https://img.shields.io/github/repo-size/kaiogabs/project-svp-eb" style="max-width: 100%;">
-</a>
-
-
+<div align="center">
 ## 📋 Sobre o Projeto
-Este projeto foi desenvolvido para documentar a migração de um site da versão Joomla 3 para Joomla 5, incluindo a reformulação visual e funcional do site existente e a criação de uma nova página inicial. O trabalho seguiu as diretrizes do **Padrão Digital do Governo Brasileiro**, utilizando um template adequado a partir das especificações disponíveis em [Padrão Digital de Governo](https://www.gov.br/ds/) para Joomla, versão 5.2.0, e foi implementado em **PHP** com um banco de dados **MySQL**.
+<p align="justify">
+Este projeto foi desenvolvido para documentar a migração de um site da versão Joomla 3 para Joomla 5, incluindo a reformulação visual e funcional do site existente e a criação de uma nova página inicial. O trabalho seguiu as diretrizes do <strong>Padrão Digital do Governo Brasileiro</strong>, utilizando um template adequado a partir das especificações disponíveis em <a href="https://www.gov.br/ds/">Padrão Digital de Governo</a> para Joomla, versão 5.2.0, e foi implementado em <strong>PHP</strong> com um banco de dados <strong>MySQL</strong>.
+</p>
 
 ### 🛠 Tecnologias Utilizadas
 | CMS  | Linguagens | Banco de Dados | Template | Arquitetura |
