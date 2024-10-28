@@ -58,11 +58,7 @@ A construção do site foi realizada do zero, visando proporcionar uma experiên
 <h2> 🖼 Capturas de Tela</h2>
 *Insira capturas de tela do antes e depois e do design final do site para ilustrar as mudanças realizadas.*
 
----
-
 <h2> 🗂 Estrutura de Pastas</h2>
-
-## 📁 Estrutura de Pastas do Projeto
 
 A estrutura de pastas do projeto é organizada da seguinte forma:
 
@@ -83,4 +79,3 @@ A estrutura de pastas do projeto é organizada da seguinte forma:
 | 🗄️ `database/`         | Scripts e backups do banco de dados MySQL          |
 | 📚 `docs/`             | Documentação e guias adicionais                    |
 | 🖼️ `imagens/`          | Capturas de tela do projeto                         |
-
