@@ -26,7 +26,7 @@ Este projeto foi desenvolvido para documentar a migração de um site da versão
 
 </div>
 
-### 📁 Estrutura do Projeto
+<h2> 📁 Estrutura do Projeto</h2>
 
 #### 1. Migração do Joomla 3 para Joomla 5
    - **Ambiente Seguro**: Configuração completa para transferência segura dos dados.
@@ -42,12 +42,12 @@ Este projeto foi desenvolvido para documentar a migração de um site da versão
    - **Mensagens e Estrutura de Conteúdo**: Reestruturação para refletir a identidade e diretrizes de comunicação do Exército.
    - **SEO e Performance**: Otimizações para garantir desempenho rápido e visibilidade nas buscas.
 
-## 🌐 Criação do Site do Zero
+## 🌐 Criação do Site
 
 Página inicial construída do zero, com foco em design moderno e responsivo, incluindo:
-- **Design Responsivo**: Utilização de CSS Flexbox e Grid.
-- **Componentes Interativos**: JavaScript para sliders e animações leves.
-- **Integração Social**: Botões e widgets de redes sociais.
+- **Design Responsivo**: Implementação de um layout adaptativo utilizando CSS Flexbox e Grid, garantindo uma experiência de navegação fluida e intuitiva em diversos dispositivos, desde smartphones a desktops. Isso assegura que todas as informações e serviços sejam facilmente acessíveis independentemente do tamanho da tela.
+- **Integração Social e Acessibilidade**: Implementação de botões e widgets de redes sociais, facilitando o compartilhamento de informações e promovendo a interação com o público. O site foi desenvolvido com foco em acessibilidade, seguindo as diretrizes do Modelo de Acessibilidade de Governo Eletrônico (eMAG), permitindo que todos os cidadãos, independentemente de suas capacidades, tenham acesso pleno aos serviços e informações.
+- **Conformidade com Diretrizes Governamentais**: Todo o desenvolvimento foi realizado em conformidade com os objetivos do Padrão Digital de Governo, assegurando que as propriedades digitais sejam organizadas de maneira clara e compreensível, promovendo a transparência e a confiança nas informações disponibilizadas.
 
 ## 🖼 Capturas de Tela
 *Insira capturas de tela do antes e depois e do design final do site para ilustrar as mudanças realizadas.*
