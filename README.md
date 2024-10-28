@@ -10,6 +10,10 @@
 
 </div>
 
+<a href="https://github.com/kaiogabs/project-svp-eb">
+    <img src="https://camo.githubusercontent.com/7cd9ebb6739e4a1951fbcb9c622c75b964d82f42e0dc80b8481ac06f7dd03d3b/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f7265706f2d73697a652f61737461746f6e6e2f6964732d6a6f6f6d6c612d6562" height="20" data-canonical-src="https://img.shields.io/github/repo-size/kaiogabs/project-svp-eb" style="max-width: 100%;">
+  </a>
+
 ## 📋 Sobre o Projeto
 Este projeto foi desenvolvido para documentar a migração de um site da versão Joomla 3 para Joomla 5, incluindo a reformulação visual e funcional do site existente e a criação de uma nova página inicial. O trabalho seguiu as diretrizes do **Padrão Digital do Governo Brasileiro**, utilizando um template adequado a partir das especificações disponíveis em [Padrão Digital de Governo](https://www.gov.br/ds/) para Joomla, versão 5.2.0, e foi implementado em **PHP** com um banco de dados **MySQL**.
 
