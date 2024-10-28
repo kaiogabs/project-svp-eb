@@ -46,9 +46,15 @@ Este projeto foi desenvolvido para documentar a migração de um site da versão
 
 A construção do site foi realizada do zero, visando proporcionar uma experiência de usuário excepcional, com um design moderno e responsivo que atende aos padrões de acessibilidade e usabilidade. Os principais aspectos do projeto incluem:
 
+<div align="justify">
+
 - **Design Responsivo**: Implementação de um layout adaptativo utilizando CSS Flexbox e Grid, garantindo uma experiência de navegação fluida e intuitiva em diversos dispositivos, desde smartphones a desktops. Isso assegura que todas as informações e serviços sejam facilmente acessíveis independentemente do tamanho da tela.
+
 - **Integração Social e Acessibilidade**: Implementação de botões e widgets de redes sociais, facilitando o compartilhamento de informações e promovendo a interação com o público. O site foi desenvolvido com foco em acessibilidade, seguindo as diretrizes do Modelo de Acessibilidade de Governo Eletrônico (eMAG), permitindo que todos os cidadãos, independentemente de suas capacidades, tenham acesso pleno aos serviços e informações.
+
 - **Conformidade com Diretrizes Governamentais**: Todo o desenvolvimento foi realizado em conformidade com os objetivos do Padrão Digital de Governo, assegurando que as propriedades digitais sejam organizadas de maneira clara e compreensível, promovendo a transparência e a confiança nas informações disponibilizadas.
+
+</div>
 
 <h2> 🖼 Capturas de Tela</h2>
 *Insira capturas de tela do antes e depois e do design final do site para ilustrar as mudanças realizadas.*
