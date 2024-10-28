@@ -62,5 +62,25 @@ A construção do site foi realizada do zero, visando proporcionar uma experiên
 
 <h2> 🗂 Estrutura de Pastas</h2>
 
-empresa-site/ │ ├── 📜 README.md # Documentação do projeto ├── 🔙 original_site/ # Arquivos e estado original Joomla 3 │ └── 🖼️ assets/ # Imagens e arquivos de mídia original ├── 📂 organizado_site/ # Joomla 3 organizado antes da migração │ ├── 🎨 templates/ # Templates organizados e customizados │ └── ⚙️ components/ # Componentes personalizados ├── 🚀 novo_site/ # Site Joomla 5 finalizado │ ├── 🎨 templates/ # Template padrão EB Brasil e customizações │ ├── ⚙️ components/ # Componentes customizados para Joomla 5 │ ├── 🎨 css/ # Estilos personalizados │ ├── 💻 js/ # Scripts JavaScript para funcionalidades │ └── 🖼️ media/ # Imagens e arquivos de mídia final ├── 🗄️ database/ # Scripts e backups do banco de dados MySQL ├── 📚 docs/ # Documentação e guias adicionais └── 🖼️ imagens/ # Capturas de tela do projeto
+## 📁 Estrutura de Pastas do Projeto
+
+A estrutura de pastas do projeto é organizada da seguinte forma:
+
+| Pasta                  | Descrição                                           |
+|------------------------|----------------------------------------------------|
+| 📜 `README.md`         | Documentação do projeto                            |
+| 🔙 `original_site/`    | Arquivos e estado original do Joomla 3            |
+| &nbsp;&nbsp;&nbsp;&nbsp;└── 🖼️ `assets/`       | Imagens e arquivos de mídia original                |
+| 📂 `organizado_site/`  | Joomla 3 organizado antes da migração              |
+| &nbsp;&nbsp;&nbsp;&nbsp;├── 🎨 `templates/`     | Templates organizados e customizados                |
+| &nbsp;&nbsp;&nbsp;&nbsp;└── ⚙️ `components/`    | Componentes personalizados                           |
+| 🚀 `novo_site/`        | Site Joomla 5 finalizado                            |
+| &nbsp;&nbsp;&nbsp;&nbsp;├── 🎨 `templates/`     | Template padrão EB Brasil e customizações           |
+| &nbsp;&nbsp;&nbsp;&nbsp;├── ⚙️ `components/`    | Componentes customizados para Joomla 5              |
+| &nbsp;&nbsp;&nbsp;&nbsp;├── 🎨 `css/`           | Estilos personalizados                               |
+| &nbsp;&nbsp;&nbsp;&nbsp;├── 💻 `js/`            | Scripts JavaScript para funcionalidades              |
+| &nbsp;&nbsp;&nbsp;&nbsp;└── 🖼️ `media/`         | Imagens e arquivos de mídia final                   |
+| 🗄️ `database/`         | Scripts e backups do banco de dados MySQL          |
+| 📚 `docs/`             | Documentação e guias adicionais                    |
+| 🖼️ `imagens/`          | Capturas de tela do projeto                         |
 
