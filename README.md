@@ -18,7 +18,7 @@ Este projeto foi desenvolvido para documentar a migração de um site da versão
 
 <div align="center">
 
-### 🛠 Tecnologias Utilizadas
+<h2> 🛠 Tecnologias Utilizadas</h2>
 
 | CMS                | Linguagens                | Banco de Dados | Template                  | Arquitetura                |
 |--------------------|---------------------------|----------------|---------------------------|-----------------------------|
