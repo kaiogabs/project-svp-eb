@@ -42,7 +42,7 @@ Este projeto foi desenvolvido para documentar a migração de um site da versão
    - **Mensagens e Estrutura de Conteúdo**: Reestruturação para refletir a identidade e diretrizes de comunicação do Exército.
    - **SEO e Performance**: Otimizações para garantir desempenho rápido e visibilidade nas buscas.
 
-## 🌐 Criação do Site
+<h2> 🌐 Criação do Site</h2>
 
 A construção do site foi realizada do zero, visando proporcionar uma experiência de usuário excepcional, com um design moderno e responsivo que atende aos padrões de acessibilidade e usabilidade. Os principais aspectos do projeto incluem:
 
@@ -50,12 +50,12 @@ A construção do site foi realizada do zero, visando proporcionar uma experiên
 - **Integração Social e Acessibilidade**: Implementação de botões e widgets de redes sociais, facilitando o compartilhamento de informações e promovendo a interação com o público. O site foi desenvolvido com foco em acessibilidade, seguindo as diretrizes do Modelo de Acessibilidade de Governo Eletrônico (eMAG), permitindo que todos os cidadãos, independentemente de suas capacidades, tenham acesso pleno aos serviços e informações.
 - **Conformidade com Diretrizes Governamentais**: Todo o desenvolvimento foi realizado em conformidade com os objetivos do Padrão Digital de Governo, assegurando que as propriedades digitais sejam organizadas de maneira clara e compreensível, promovendo a transparência e a confiança nas informações disponibilizadas.
 
-## 🖼 Capturas de Tela
+<h2> 🖼 Capturas de Tela</h2>
 *Insira capturas de tela do antes e depois e do design final do site para ilustrar as mudanças realizadas.*
 
 ---
 
-## 🗂 Estrutura de Pastas
+<h2> 🗂 Estrutura de Pastas</h2>
 
 ```plaintext
 empresa-site/
