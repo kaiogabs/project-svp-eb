@@ -1,7 +1,8 @@
 <p align="center">
 <img src="https://camo.githubusercontent.com/3b58e34f4607c08fad1787cfed025ca8adae420722d089a630a89bc6e8c8f748/68747470733a2f2f692e696d6775722e636f6d2f75626c454e32682e706e67" height="100" data-canonical-src="https://i.imgur.com/ublEN2h.png" style="max-width: 100%;">
 
-<h1 tabindex="-1" class="heading-element" dir="auto"><a href="https://github.com/kaiogabs/project-svp-eb">Template Padrão Digital de Governo para Joomla</a><br>Exército Brasileiro</h1>
+<p align="center">
+<h1 tabindex="-1" class="heading-element" dir="auto"><a href="https://github.com/kaiogabs/project-svp-eb">Projeto de Reformulação e Criação de Site</a><br>Exército Brasileiro</h1>
 
 ## 📋 Sobre o Projeto
 Este projeto foi desenvolvido para documentar a migração de um site da versão Joomla 3 para Joomla 5, incluindo a reformulação visual e funcional do site existente e a criação de uma nova página inicial. O trabalho seguiu as diretrizes do **Padrão Digital do Governo Brasileiro**, utilizando um template adequado a partir das especificações disponíveis em [Padrão Digital de Governo](https://www.gov.br/ds/) para Joomla, versão 5.2.0, e foi implementado em **PHP** com um banco de dados **MySQL**.
