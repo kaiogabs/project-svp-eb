@@ -66,4 +66,22 @@ A construção do site foi realizada do zero, visando proporcionar uma experiên
 
 A seguir está a estrutura do projeto, organizada de maneira a facilitar a navegação e compreensão dos diferentes componentes envolvidos na migração e reformulação do site.
 
-empresa-site/ │ ├── 📄 README.md # Documentação do projeto ├── 🗂️ original_site/ # Arquivos e estado original Joomla 3 │ └── 📸 assets/ # Imagens e arquivos de mídia original ├── 🗂️ organizado_site/ # Joomla 3 organizado antes da migração │ ├── 🎨 templates/ # Templates organizados e customizados │ └── ⚙️ components/ # Componentes personalizados ├── 🌐 novo_site/ # Site Joomla 5 finalizado │ ├── 🎨 templates/ # Template padrão EB Brasil e customizações │ ├── ⚙️ components/ # Componentes customizados para Joomla 5 │ ├── 🎨 css/ # Estilos personalizados │ ├── 📜 js/ # Scripts JavaScript para funcionalidades │ └── 🖼️ media/ # Imagens e arquivos de mídia final ├── 🗃️ database/ # Scripts e backups do banco de dados MySQL ├── 📚 docs/ # Documentação e guias adicionais └── 🖼️ imagens/ # Capturas de tela do projeto
+
+### Melhoria da Estrutura
+
+
+### Melhoria da Estrutura
+
+1. **Emojis**: Adicione emojis que representem visualmente o conteúdo de cada pasta, tornando a leitura mais agradável e intuitiva.
+  
+2. **Comentários Descritivos**: Use comentários claros que expliquem a função de cada diretório, como "Documentação do projeto" ou "Imagens e arquivos de mídia final".
+
+3. **Seções**: Considere adicionar seções ou subtítulos antes de cada grupo de diretórios, explicando brevemente o que cada parte do projeto envolve.
+
+4. **Formatação**: Utilize formatação em negrito ou itálico para destacar partes importantes, como o nome do site ou as principais características do projeto.
+
+5. **Títulos**: O uso de títulos claros como "Estrutura do Projeto" ajuda a organizar e guiar a leitura.
+
+Essa abordagem não só torna a estrutura mais visualmente atraente, mas também ajuda outros desenvolvedores e usuários a entenderem rapidamente a organização do seu projeto.
+
+
