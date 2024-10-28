@@ -1,4 +1,10 @@
-# Projeto de Reformulação e Criação de Site no Joomla para o [Exército Brasileiro]
+<h1 align="center">
+  Projeto de Reformulação e Criação de Site no Joomla para o Exército Brasileiro 🇧🇷
+</h1>
+
+<p align="center">
+  <a href="https://github.com/astatonn/ids-joomla-eb">Visite o repositório no GitHub</a>
+</p>
 
 ## 📋 Sobre o Projeto
 Este projeto foi desenvolvido para documentar a migração de um site da versão Joomla 3 para Joomla 5, incluindo a reformulação visual e funcional do site existente e a criação de uma nova página inicial. O trabalho seguiu as diretrizes do **Padrão Digital do Governo Brasileiro**, utilizando um template adequado a partir das especificações disponíveis em [Padrão Digital de Governo](https://www.gov.br/ds/) para Joomla, versão 5.2.0, e foi implementado em **PHP** com um banco de dados **MySQL**.
