@@ -44,9 +44,8 @@ Este projeto foi desenvolvido para documentar a migração de um site da versão
 
 <h2> 🌐 Criação do Site</h2>
 
-A construção do site foi realizada do zero, visando proporcionar uma experiência de usuário excepcional, com um design moderno e responsivo que atende aos padrões de acessibilidade e usabilidade. Os principais aspectos do projeto incluem:
-
 <div align="justify">
+A construção do site foi realizada do zero, visando proporcionar uma experiência de usuário excepcional, com um design moderno e responsivo que atende aos padrões de acessibilidade e usabilidade. Os principais aspectos do projeto incluem:
 
 - **Design Responsivo**: Implementação de um layout adaptativo utilizando CSS Flexbox e Grid, garantindo uma experiência de navegação fluida e intuitiva em diversos dispositivos, desde smartphones a desktops. Isso assegura que todas as informações e serviços sejam facilmente acessíveis independentemente do tamanho da tela.
 
