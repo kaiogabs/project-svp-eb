@@ -62,21 +62,8 @@ A construção do site foi realizada do zero, visando proporcionar uma experiên
 
 <h2> 🗂 Estrutura de Pastas</h2>
 
-```plaintext
-empresa-site/
-│
-├── README.md               # Documentação do projeto
-├── original_site/          # Arquivos e estado original Joomla 3
-│   └── assets/             # Imagens e arquivos de mídia original
-├── organizado_site/        # Joomla 3 organizado antes da migração
-│   ├── templates/          # Templates organizados e customizados
-│   └── components/         # Componentes personalizados
-├── novo_site/              # Site Joomla 5 finalizado
-│   ├── templates/          # Template padrão EB Brasil e customizações
-│   ├── components/         # Componentes customizados para Joomla 5
-│   ├── css/                # Estilos personalizados
-│   ├── js/                 # Scripts JavaScript para funcionalidades
-│   └── media/              # Imagens e arquivos de mídia final
-├── database/               # Scripts e backups do banco de dados MySQL
-├── docs/                   # Documentação e guias adicionais
-└── imagens/                # Capturas de tela do projeto
+# Estrutura do Projeto
+
+A seguir está a estrutura do projeto, organizada de maneira a facilitar a navegação e compreensão dos diferentes componentes envolvidos na migração e reformulação do site.
+
+empresa-site/ │ ├── 📄 README.md # Documentação do projeto ├── 🗂️ original_site/ # Arquivos e estado original Joomla 3 │ └── 📸 assets/ # Imagens e arquivos de mídia original ├── 🗂️ organizado_site/ # Joomla 3 organizado antes da migração │ ├── 🎨 templates/ # Templates organizados e customizados │ └── ⚙️ components/ # Componentes personalizados ├── 🌐 novo_site/ # Site Joomla 5 finalizado │ ├── 🎨 templates/ # Template padrão EB Brasil e customizações │ ├── ⚙️ components/ # Componentes customizados para Joomla 5 │ ├── 🎨 css/ # Estilos personalizados │ ├── 📜 js/ # Scripts JavaScript para funcionalidades │ └── 🖼️ media/ # Imagens e arquivos de mídia final ├── 🗃️ database/ # Scripts e backups do banco de dados MySQL ├── 📚 docs/ # Documentação e guias adicionais └── 🖼️ imagens/ # Capturas de tela do projeto
