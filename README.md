@@ -59,10 +59,18 @@ A construção do site foi realizada do zero, visando proporcionar uma experiên
 
 <h2> 🖼 Capturas de Tela</h2>
 
-| Antes                                                                 | Depois                                                             |
-|----------------------------------------------------------------------|--------------------------------------------------------------------|
-| ![Antes](https://imgur.com/a/Oos6dCT)                                | ![Depois](https://imgur.com/8vWscqQ)                               |
-| Design pouco responsivo, com problemas de acessibilidade e layout.  | Layout moderno e responsivo, alinhado às diretrizes governamentais. |
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://imgur.com/a/Oos6dCT" height="300" data-canonical-src="https://imgur.com/a/Oos6dCT" style="max-width: 100%;">
+      <p>Antes: Design pouco responsivo, com problemas de acessibilidade e layout.</p>
+    </td>
+    <td align="center">
+      <img src="https://imgur.com/8vWscqQ" height="300" data-canonical-src="https://imgur.com/8vWscqQ" style="max-width: 100%;">
+      <p>Depois: Layout moderno e responsivo, alinhado às diretrizes governamentais.</p>
+    </td>
+  </tr>
+</table>
 
 <h2> 🗂 Estrutura de Pastas</h2>
 
