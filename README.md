@@ -62,11 +62,11 @@ A construção do site foi realizada do zero, visando proporcionar uma experiên
 <table>
   <tr>
     <td align="center">
-      <img src="https://imgur.com/a/Oos6dCT" height="300" data-canonical-src="https://imgur.com/a/Oos6dCT" style="max-width: 100%;">
+      <img src="https://i.imgur.com/edk9RKy.png" height="300" data-canonical-src="https://i.imgur.com/edk9RKy.png" style="max-width: 100%;">
       <p>Antes: Design pouco responsivo, com problemas de acessibilidade e layout.</p>
     </td>
     <td align="center">
-      <img src="https://imgur.com/8vWscqQ" height="300" data-canonical-src="https://imgur.com/8vWscqQ" style="max-width: 100%;">
+      <img src="https://i.imgur.com/8vWscqQ.png" height="300" data-canonical-src="https://i.imgur.com/8vWscqQ.png" style="max-width: 100%;">
       <p>Depois: Layout moderno e responsivo, alinhado às diretrizes governamentais.</p>
     </td>
   </tr>
