@@ -1,13 +1,11 @@
 <p align="center">
 <img src="https://camo.githubusercontent.com/3b58e34f4607c08fad1787cfed025ca8adae420722d089a630a89bc6e8c8f748/68747470733a2f2f692e696d6775722e636f6d2f75626c454e32682e706e67" height="100" data-canonical-src="https://i.imgur.com/ublEN2h.png" style="max-width: 100%;">
 
-
 <div align="center">
 
 <h1 tabindex="-1" class="heading-element" dir="auto">
   <a href="https://github.com/kaiogabs/project-svp-eb">Projeto de Reformulação e Criação de Site</a><br>Exército Brasileiro
 </h1>
-
 
 <div align="center">
   <h2>📋 Sobre o Projeto</h2>
@@ -42,6 +40,11 @@ Este projeto foi desenvolvido para documentar a migração de um site da versão
    - **Mensagens e Estrutura de Conteúdo**: Reestruturação para refletir a identidade e diretrizes de comunicação do Exército.
    - **SEO e Performance**: Otimizações para garantir desempenho rápido e visibilidade nas buscas.
 
+#### 4. Hospedagem e Configuração
+   - **Desenvolvimento Local**: O site foi inicialmente desenvolvido em um servidor local utilizando XAMPP.
+   - **Backup e Migração**: Após a conclusão do desenvolvimento, um backup completo foi realizado e o site foi hospedado em um servidor remoto, incluindo a configuração do banco de dados e do domínio.
+   - **SSL e HTTPS**: Certificado SSL configurado para garantir uma conexão segura via HTTPS.
+
 <h2> 🌐 Criação do Site</h2>
 
 <div align="justify">
@@ -52,11 +55,14 @@ A construção do site foi realizada do zero, visando proporcionar uma experiên
 - **Integração Social e Acessibilidade**: Implementação de botões e widgets de redes sociais, facilitando o compartilhamento de informações e promovendo a interação com o público. O site foi desenvolvido com foco em acessibilidade, seguindo as diretrizes do Modelo de Acessibilidade de Governo Eletrônico (eMAG), permitindo que todos os cidadãos, independentemente de suas capacidades, tenham acesso pleno aos serviços e informações.
 
 - **Conformidade com Diretrizes Governamentais**: Todo o desenvolvimento foi realizado em conformidade com os objetivos do Padrão Digital de Governo, assegurando que as propriedades digitais sejam organizadas de maneira clara e compreensível, promovendo a transparência e a confiança nas informações disponibilizadas.
-
 </div>
 
 <h2> 🖼 Capturas de Tela</h2>
-*Insira capturas de tela do antes e depois e do design final do site para ilustrar as mudanças realizadas.*
+
+| Antes                                                                 | Depois                                                             |
+|----------------------------------------------------------------------|--------------------------------------------------------------------|
+| ![Antes](https://imgur.com/a/Oos6dCT)                                | ![Depois](https://imgur.com/8vWscqQ)                               |
+| Design pouco responsivo, com problemas de acessibilidade e layout.  | Layout moderno e responsivo, alinhado às diretrizes governamentais. |
 
 <h2> 🗂 Estrutura de Pastas</h2>
 
@@ -79,3 +85,7 @@ A estrutura de pastas do projeto é organizada da seguinte forma:
 | 🗄️ `database/`         | Scripts e backups do banco de dados MySQL          |
 | 📚 `docs/`             | Documentação e guias adicionais                    |
 | 🖼️ `imagens/`          | Capturas de tela do projeto                         |
+
+<h2> 📈 Impacto e Aprendizado</h2>
+
+Este projeto permitiu consolidar minhas habilidades em migração de sistemas, otimização de performance e aplicação de padrões governamentais. Ele demonstrou minha capacidade de criar soluções completas, desde o desenvolvimento local até a hospedagem remota e configuração de domínios e certificados de segurança. Todo o processo contribuiu para minha evolução como desenvolvedor web, especialmente na área de sites institucionais.
